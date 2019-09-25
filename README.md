@@ -7,5 +7,5 @@ It utilizes Player Empirical Comparison and Optimization Test Algorithm (PECOTA)
 The application was created to compare Jose Bautista and Edwin Encarnacion after the 2016 MLB season and determine which player will have a better projection.
 
 
-
+https://rg15.shinyapps.io/baseballUI/
 
