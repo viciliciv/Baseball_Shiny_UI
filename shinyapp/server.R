@@ -7,7 +7,7 @@ library(data.table)
 library(ggplot2)
 library(plotly)
 library(dplyr)
-#/Users/Work_JGI/Documents/r_working_folder/Baseball_player_comp/
+
 merged<-read.csv('clean_merged_data_mlb.csv', header = TRUE, sep = ",")
 merged$X<-NULL
 deviance = NULL
